@@ -2,6 +2,8 @@
 coding
 docker is able to make mini computers in your system to run uncompatible items.
 
+[# [TYPESCRIPT CHEATSHEET](https://learnxinyminutes.com/typescript/)]
+
 ## Git
 git clone https://github.com/mohsa012/sandbox.git is my code.
 
