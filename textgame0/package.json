@@ -1,0 +1,21 @@
+{
+  "name": "textgame0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "game": "./node_modules/ts-node/dist/bin.js index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.8"
+  }
+}
