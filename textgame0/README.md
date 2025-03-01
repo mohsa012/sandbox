@@ -13,4 +13,3 @@ Only change `index.ts`.  Watch for other changes when you're doing git commits t
 ```
 npm run game
 ```
-
